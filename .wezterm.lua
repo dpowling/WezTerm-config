@@ -20,7 +20,6 @@ config.front_end = "WebGpu"
 config.animation_fps = 120
 config.cursor_blink_ease_in = "EaseOut"
 config.cursor_blink_ease_out = "EaseOut"
-config.default_cursor_style = "BlinkingBlock"
 config.cursor_blink_rate = 650
 
 -- For example, changing the color scheme:
